@@ -9,7 +9,7 @@ Download [radio.py](https://github.com/DarkElf2233/radio-ultra/blob/main/radio.p
 ## Step 4:
 Open this folder in terminal and paste this command to install [selenium](https://selenium-python.readthedocs.io/installation.html#introduction):
 ```
-pip install
+pip install -r requirements.txt
 
 ```
 ## Step 5:
@@ -18,4 +18,4 @@ In the same terminal paste this command:
 py radio.py
 
 ```
-If you passed all the steps correctly it should write song title and author to songs.txt.
+If you passed over the steps correctly it should write song title and author to songs.txt.
